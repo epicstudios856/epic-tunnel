@@ -19,7 +19,7 @@ ul{
 
 .button_1{
   height:38px;
-  background:#ffa21313;
+  background:#0391FF;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -28,7 +28,7 @@ ul{
 
 .downloadButton{
   height:38px;
-  background:#ffa21313;
+  background:#0391FF;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -123,7 +123,7 @@ section .page-text, section .current a{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#ffa21313
+  background:#0391FF
 }
 
 #newsletter h1{
@@ -249,8 +249,8 @@ footer{
 /* 11 */
 .btn-11 {
   border: none;
-  background: rgb(a2,13,13);
-    background: linear-gradient(0deg, rgba(a2,13,13,1) 0%, rgba(49,110,244,1) 100%);
+  background: rgb(22,9,240);
+    background: linear-gradient(0deg, rgba(22,9,240,1) 0%, rgba(49,110,244,1) 100%);
     color: #fff;
     overflow: hidden;
 }
